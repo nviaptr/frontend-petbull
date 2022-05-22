@@ -1,0 +1,16 @@
+nav {
+    float: right;
+    margin: 0% 20px;
+}
+
+nav ul {
+    padding-top: 9.5px;
+    padding-bottom: 9.5px;
+}
+
+nav li {
+    display: inline;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
